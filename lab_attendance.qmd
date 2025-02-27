@@ -1,6 +1,7 @@
 ---
-title: "lab_attendance"
+title: "Lab Attendance"
 author: "Bella Conrad"
 format: html
 ---
 
+## I have learned how to use R to create repositories in github.
